@@ -78,8 +78,8 @@ for name, model in models.items():
 
     results[name] = {'MSE': mse, 'R² Score': r2}
 
-print("\nName: R Venkatramani")
-print("Reg No: 212225240182")
+print("\nName: R JAYENTHAN")
+print("Reg No: 212225240057")
 
 for model_name, metrics in results.items():
     print(f"\n{model_name} Model")
